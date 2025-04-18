@@ -76,7 +76,6 @@ async function startAPP(city = "cairo") {
     if (!data.error) {
         display_TodayData(data)
         display_Forecast(data)
-
     }
 
 }
