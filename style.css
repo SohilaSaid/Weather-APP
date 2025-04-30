@@ -93,10 +93,12 @@ body{
 }
 .card-light{
     background-color: #262936;
+    border: 2px solid #1e202b ;
 }
 
 .card-dark{
     background-color:#1e202b ;
+    border: 2px solid #262936 ;
 }
 
 /* footer */
